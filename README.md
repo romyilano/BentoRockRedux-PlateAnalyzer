@@ -40,7 +40,8 @@ There are many more!
 * [Salt, Sugar and Fat](http://www.michaelmossbooks.com) by Michael Moss
 * [Food Politics](http://www.foodpolitics.com/about/) by Marion Nestle
 * [Portion Distortion Posters](http://www.art.com/products/p11741822-sa-i1356007/lee-dean-portion-distortion.htm) by Lee Dean
-
+* [Dr Human - Top 10 Big Ideas to Detox on Sugar](http://drhyman.com/blog/2014/03/06/top-10-big-ideas-detox-sugar/)
+* [Bittman - Dining: Healthy Meet Deliciouss](http://www.nytimes.com/2013/04/24/dining/healthy-meet-delicious.html) 
 # Images
 
 Portion sizes are so excessive that we need a visual reminder to show us what a normal eating portion should be (in order to maintain a desired weight)
