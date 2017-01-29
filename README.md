@@ -9,8 +9,8 @@ It's a nice way to get feedback from other developers as well as learn the newes
 
 # Component - Plate Portion Size
 
-* Problem: Portion sizes are enormous when eating out in the USA
-* Solution: Help people manage sensible portion sizes
+* **Problem**: Portion sizes are enormous when eating out in the USA
+* **Solution**: Help people manage sensible portion sizes
 
 This component will be an iOS view in which people can take pictures of their plates. 
 
@@ -34,6 +34,25 @@ Let's make a fun way for people to escape "dangerous" situations. Can we gamify 
 
 ## Books
 
+There are many more!
+
 * [The End of Overeating](http://www.huffingtonpost.com/louise-mccready/d-kessler-author-of-emthe_b_195676.html) by Kessler
 * [Salt, Sugar and Fat](http://www.michaelmossbooks.com) by Michael Moss
 * [Food Politics](http://www.foodpolitics.com/about/) by Marion Nestle
+* [Portion Distortion Posters](http://www.art.com/products/p11741822-sa-i1356007/lee-dean-portion-distortion.htm) by Lee Dean
+
+# Images
+
+Portion sizes are so excessive that we need a visual reminder to show us what a normal eating portion should be (in order to maintain a desired weight)
+
+![Mockup](images/plateAnalyzersMockup.JPG)
+
+
+How large should a pizza slice be? Is there a way to note and mark down.
+
+![Pizza Size](images/portionControlPizza.JPG)
+
+Lee Dean's posters on the proper serving sizes for things like Burritos is so awesome
+
+
+![Portion Distortion](images/portionDistortionBurritoLeeDean.JPG)
